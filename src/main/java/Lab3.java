@@ -32,7 +32,7 @@ public static String urlToString(final String url) {
      // TODO Auto-generated method stub
         String article = urlToString("http://erdani.com/tdpl/hamlet.txt");
         int spaceCounter = 0;
-        int lineCounter = 0;
+ //       int lineCounter = 0;
         int wordCounter = 0;
 
 
